@@ -1,0 +1,18 @@
+.versionButton {
+	border: none;
+	box-shadow: none;
+	font-size: 20px;
+	cursor: pointer;
+	background: none;
+	padding: 10px;
+}
+.versionDiv {
+	font-size: 20px;
+	padding: 10px;
+}
+.versionItem {
+    font-size: 20px;
+    margin: 0 3px;
+    width: 30px;
+	text-align: center;
+}
