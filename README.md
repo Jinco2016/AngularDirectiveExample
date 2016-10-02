@@ -3,9 +3,6 @@ AngularJS Programming Task
 
 In order to be considered for the AngularJS position, you must complete the following steps. 
 
-*Note: This task should take no longer than 1-2 hours at the most.*
-
-
 ### Prerequisites
 
 - Please note that this will require some basic [JavaScript](http://www.codecademy.com/tracks/javascript) and [AngularJS](http://angularjs.com/) knowledge. [Egghead.io](http://www.egghead.io/) is an excellent source for AngularJS knowledge.
